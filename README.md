@@ -26,4 +26,4 @@ I took the idea of a basic balloon popping game, where random balloons would app
 ![Alt text](<Project Screenshots/MAINWINDOW.PNG>)
 
 ### Working Video
-<video src="Project%20Screenshots/bandicam%202022-07-25%2022-21-36-243_compressed.mp4" controls title="Title"></video>
+https://github.com/Chinmaya0201/Balloon-Burst-Game/assets/101726470/017e468d-6958-447e-b686-182bbaad20c9
